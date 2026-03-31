@@ -1,5 +1,5 @@
 #!/bin/bash
-STUDENT_NAME="Utsav"
+STUDENT_NAME="Khushi"
 SOFTWARE_CHOICE="Git" # Fill in your chosen software
 # --- System info ---
 KERNEL=$(uname -r)
@@ -7,7 +7,7 @@ USER_NAME=$(whoami)
 UPTIME=$(uptime -p)
 # --- Display ---
 echo "================================"
-echo " Open Source Audit — $Utsav_Kaushal"
+echo " Open Source Audit — $Khushi_Rai"
 echo "================================"
 echo "Kernel : $KERNEL"
 echo "User : $USER_NAME"

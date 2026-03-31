@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Utsav Kaushal (24BCY10321)
+- Name: Khushi Rai (24BCY10374)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
